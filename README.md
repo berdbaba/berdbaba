@@ -1,4 +1,4 @@
-### 🎮 Unity Developer | 5 Years Shipping Mobile Games Played by 600M+ Users
+### 🎮 Unity Developer | 5+ Years Shipping Mobile Games Played by 600M+ Users
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
